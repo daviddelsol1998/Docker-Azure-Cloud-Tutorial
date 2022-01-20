@@ -1,0 +1,2 @@
+docker build -t app1 .
+docker run -p 8888:80 app1
